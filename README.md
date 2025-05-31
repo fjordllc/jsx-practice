@@ -20,9 +20,10 @@ $ git clone https://github.com/自分のアカウント名/jsx-practice.git
 
 4. `cd jsx-practice` でカレントディレクトリを変更してください。
 5. `npm install`, `npm run dev`を実行するとアプリケーションが起動し、`localhost:5173`でアクセスできます。
-6. `src/components/`以下のファイルを編集して、課題を解いてください。
-7. 自分が書いたコードを GitHub に push してください。
-8. ソースコードが完成したら、以下の注意点に気を付けながら自分のリポジトリへの Pull Request を作成し、URL を提出してください。
+6. 任意のブランチ名で、開発用のブランチを切ってください。
+7. `src/components/`以下のファイルを編集して、課題を解いてください。
+8. 自分が書いたコードを GitHub に push してください。
+9. ソースコードが完成したら、以下の注意点に気を付けながら自分のリポジトリへの Pull Request を作成し、URL を提出してください。
    - OK `自分のアカウント名/main` ← `自分のアカウント名/jsx-practice`
    - NG `fjordllc/main` ← `自分のアカウント名/jsx-practice`
-9. 合格したら上記 Pull Request をマージしてください。
+10. 合格したら上記 Pull Request をマージしてください。
