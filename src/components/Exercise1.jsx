@@ -3,7 +3,7 @@ const Exercise1 = () => {
     <ul>
       <li>ここに適切なリストを表示してください</li>
     </ul>
-  )
+  );
 };
 
 export default Exercise1;
